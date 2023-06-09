@@ -10,6 +10,11 @@ header("Content-Type: application/xhtml+xml;char-set=utf-8")
     <link rel="stylesheet" href="/assets/css/main.css" type="text/css"/>
   </head>
   <body>
+    <?php 
+// Copyright 2023
+// I, Inc., hereby disclaims all copyright interest in the program “RoWeb” written by me.
+?>
+
    <?php include "navbar.php" ?>
 
    <div>
