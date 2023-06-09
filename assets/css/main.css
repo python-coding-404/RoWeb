@@ -1,0 +1,62 @@
+.navbar {
+  margin: auto;
+  width: 100%;
+  
+  
+}
+.navbar-banner {
+  width: 100%;
+  background-image: url("/assets/img/banner2.png");
+  border-style: solid;
+  border-width: 1px;
+  height: 72px;
+  
+}
+
+.navbar-banner-login {
+  float:left;
+  padding: 4px 4px 4px 4px;
+  text-align: left;
+
+}
+.navbar-banner-home {
+  clear: left;
+  float:left;
+  padding: 4px 4px 4px 4px;
+  text-align: left;
+  margin-top: 28px;
+}
+
+.navbar-nav {
+  font-family: "Comic Sans MS";
+  background-color: #6e99c9;
+  text-decoration: none;
+  color: white;
+  font-size: 12pt;
+  font-weight: normal;
+  width: 100%;
+}
+.navbar-banner-obnoxiously-big-yellow-button {
+    clear: right;
+    float: right;
+   text-align: right;
+  
+   
+}
+.why-are-you-reading-the-sourcecode {
+  background-color: #eeeeee;
+    border: solid 1px #000000;
+    float: right;
+    padding: 10px 10px 10px 10px;
+    width: 715px;
+.justforkit {
+  width: 150px;
+ float: left;
+}
+.navbar-banner-link {
+  font: normal 12px/normal Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none ;
+  color: white;
+  
+  
+}
