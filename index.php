@@ -12,7 +12,7 @@ header("Content-Type: application/xhtml+xml;char-set=utf-8")
   <body>
     <?php 
 // Copyright 2023
-// I, Inc., hereby disclaims all copyright interest in the program “RoWeb” written by me.
+// I, Ltd., hereby disclaims all copyright interest in the program “RoWeb” written by me.
 ?>
 
    <?php include "navbar.php" ?>
